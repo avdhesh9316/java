@@ -13,6 +13,7 @@ class Program5 {
 			System.out.println("It throws : " + ae);
 		} finally {
 			System.out.println("Inside finally block");
+			System.out.println("End of the Program");
 		}
 	}
 }
